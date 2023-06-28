@@ -14,10 +14,7 @@ These instructions will help you get a copy of the project up and running on you
 
 1. Clone the repository by running the following command:
 
-   ```bash
-   git clone [repository_url]
-
-   ```
+  git clone https://github.com/faizov/English-Trainer
 
 2. Navigate to the project directory:
 
